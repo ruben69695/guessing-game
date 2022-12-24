@@ -14,7 +14,7 @@ A command line guessing game made with 🦀 Rust
 - MacOS Sierra
 - VSCode
 
-## Runs on
+## 🚀 Runs on
 - Linux
 - MacOS
 - Windows
