@@ -3,14 +3,14 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ruben69695/guessing-game?color=purple)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ruben69695/guessing-game?color=purple)
 
-# Guessing game
+# 🎮 Guessing game
 A command line guessing game made with 🦀 Rust
 
-## Language and dependencies
+## 💬 Language and dependencies
 - Rust 1.57.0
 - Cargo 1.57.0
 
-## Development environment
+## 💻 Development environment
 - MacOS Sierra
 - VSCode
 
