@@ -4,7 +4,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ruben69695/guessing-game?color=purple)
 
 # Guessing game
-A CLI guessing game made with Rust
+A command line guessing game made with 🦀 Rust
 
 ## Language and dependencies
 - Rust 1.57.0
