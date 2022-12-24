@@ -6,7 +6,7 @@
 # Guessing game
 A command line guessing game made with 🦀 Rust
 
-## 💬 Language and dependencies
+## ⚒️ Language and dependencies
 - Rust 1.57.0
 - Cargo 1.57.0
 
